@@ -1,15 +1,15 @@
 # python常用脚本
 
-tab.py
+#tab.py
 用于python补全
 
-backup_file.py
+#backup_file.py
 用来备份目录或文件，修改其中的Source_Path源目录、Target_Dir目标目录即可。
 
-check_mysql_slave.py
+#check_mysql_slave.py
 用来监控mysql的主从复制状态是否正常
 
-prettytable.py
+#prettytable.py
 用来表格显示，更加美观
 用法：
 from prettytable import PrettyTable
