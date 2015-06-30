@@ -6,7 +6,7 @@
 ###backup_file.py
 用来备份目录或文件，修改其中的Source_Path源目录、Target_Dir目标目录即可。
 
-#check_mysql_slave.py
+###check_mysql_slave.py
 用来监控mysql的主从复制状态是否正常
 
 ###prettytable.py
