@@ -3,11 +3,11 @@
 
 import smtplib
 from email.mime.text import MIMEText
-mailto_list=['15210871139@139.com']
+mailto_list=['152XXXX1139@139.com']
 mail_host="smtp.mxhichina.com"
-mail_user="alert@liuker.cn"
-mail_pass="qwer,1234"
-mail_postfix="liuker.cn"
+mail_user="alert@XXXX.com"
+mail_pass="123456"
+mail_postfix="XXXX.com"
 
 def send_mail(to_list,sub,content):
     me="hello"+"<"+mail_user+"@"+mail_postfix+">"
